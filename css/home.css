@@ -1,0 +1,22 @@
+.comida-body {
+  background: url(../img/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.contenido-fondo{
+  background-color:#604d4f;
+  opacity:0.9;
+}
+.parte-derecha{
+  background-color:#cfd1e6;
+}
+.contenido-central{
+  background-color: #200c18;
+}
+.color-texto{
+  color: #cfd1e6;
+}
